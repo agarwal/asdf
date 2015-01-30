@@ -1,0 +1,2 @@
+- [This is an http link](http://example.com)
+- [This is an ftp link](ftp://example.com)
